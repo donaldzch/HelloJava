@@ -1,0 +1,1 @@
+package crackingcodinginterview.Chapter2;/** * Created by DonaldZhu on 4/19/14. */public class Q2_7 {    /**     * Implement a function to check if a linked list is a palindrome.     * 0 -> 1 -> 2 -> 1 -> 0     */    private static boolean isPalindrome(LinkedListNode head) {                return true;    }}
